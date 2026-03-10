@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# Credentials & Secrets
+client_secret*.json
+service_account*.json
+*.p12
+
+# IDE
+.vscode/
+.idea/
+
+# ML artifacts
+*.pt
+*.pth
+*.onnx
+*.pkl
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# OS
+Thumbs.db
+.DS_Store

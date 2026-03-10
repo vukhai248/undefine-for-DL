@@ -1,0 +1,19 @@
+# Tự động xử lý line ending
+* text=auto eol=lf
+
+# File nhị phân - không chuyển đổi
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.csv binary
+*.zip binary
+*.gz binary
+*.pkl binary
+*.pt binary
+*.pth binary
+*.h5 binary
+
+# Notebook giữ nguyên LF
+*.ipynb text eol=lf
