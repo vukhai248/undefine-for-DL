@@ -18,3 +18,10 @@ conda env create -f environment.yml
 ```bash
 conda activate DL
 ```
+
+
+## Link dataset https://www.codabench.org/competitions/12339/#/pages-tab
+
+## Link paper:
+- EDSR: https://arxiv.org/pdf/1707.02921
+- Channel Attnetion: https://arxiv.org/pdf/1807.02758
